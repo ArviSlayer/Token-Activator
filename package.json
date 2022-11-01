@@ -1,0 +1,26 @@
+{
+  "name": "arvis0011-discord-user-token",
+  "version": "1.0.7",
+  "description": "ArviS#0011 - Token Aktifleştirme & Sese Sokma",
+  "main": "arvis.js",
+  "scripts": {
+    "test": "node arvis.js"
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ArviSlayer/Discord-User-Token.git"
+  },
+
+  "author": "ArviS#0011",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArviSlayer/Discord-User-Token/issues"
+  },
+
+  "homepage": "https://github.com/ArviSlayer/Discord-User-Token#readme",
+  "dependencies": {
+    "@discordjs/voice": "^0.11.0",
+    "discord.js-selfbot-v13": "^2.4.6"
+  }
+}
