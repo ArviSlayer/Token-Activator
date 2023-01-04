@@ -4,6 +4,7 @@
 
 # 📝・ÖZELLİKLERİ
 🎄・**ayarlar.json'a Token Girmeniz Yeterli, Ek Şeyler İstemez**
+
 🎄・**VDS'te vs. Tuttuğunuz Sürece Asla Düşmez**
 #
 
