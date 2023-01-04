@@ -1,9 +1,9 @@
 {
-  "userTOKEN": [
-    "KULLANICI TOKENİ"
+  "HesapTOKEN": [
+    ""
   ],
 
-  "seskanalları": [
-    "TOKENİN GİRECEĞİ SES KANAL ID" 
+  "SesKanalı": [
+    "1051224813303234701" 
   ]
 }
