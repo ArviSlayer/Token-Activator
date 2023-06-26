@@ -1,5 +1,7 @@
 # 🤖・Bota BİLEREK 5 Farklı Hata Bırakıldı
 ⭐・**5 Hatayıda Çözüp Botu Başlatabilirsiniz**
+
+https://www.itemsatis.com/discord/token-activator-1655095.html
 # 
 
 # 📝・ÖZELLİKLERİ
