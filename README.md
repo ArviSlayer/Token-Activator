@@ -20,7 +20,7 @@ https://www.itempazar.com/discord-uye-nitro-sunucu/token-activator-96645
 #
 
 # 📞・İLETİŞİM
-💙・**Discord:** ArviS#0011
+💙・**Discord:** arvis.
 
 🔗・**Destek Sunucusu:** [Tıkla](https://discord.gg/3AfAFE5qYg)
 
@@ -30,5 +30,3 @@ https://www.itempazar.com/discord-uye-nitro-sunucu/token-activator-96645
 
 # ❗・NOT
 😙・Hata çözümleri için yardım istemeyin. Hatalar, "gerçekten bilgisi olupta çözebilenlerle kullansın" diye var. O yüzden "hataları söyler misin? Hatalar konusunda yardımcı olur musun?" gibi sorularla gelmeyin.
-#
-#
