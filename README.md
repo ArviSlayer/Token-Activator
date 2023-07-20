@@ -4,7 +4,7 @@
 #
 
 # 💵・Hatalarla Uğraşmak İstemiyorsanız Satın Alabilirsiniz
-https://www.itemsatis.com/discord/token-activator-1676739.html
+https://www.itemsatis.com/discord/token-activator-1741605.html
 
 https://www.itempazar.com/discord-uye-nitro-sunucu/token-activator-96645
 # 
