@@ -1,6 +1,6 @@
 # 🤖・Bota BİLEREK 5 Farklı Hata Bırakıldı
 ⭐・**5 Hatayıda Çözüp Botu Başlatabilirsiniz**
-# 
+# d
 #
 
 # 💵・Hatalarla Uğraşmak İstemiyorsanız Satın Alabilirsiniz
